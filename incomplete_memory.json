@@ -1,0 +1,400 @@
+[
+    {
+        "role": "user",
+        "text": "User indicated intent to converse at a later time.",
+        "keywords": [
+            "indicated",
+            "intent",
+            "converse",
+            "later",
+            "time."
+        ],
+        "importance": 2,
+        "time": "2025-04-17 19:04:36"
+    },
+    {
+        "role": "user",
+        "text": "Master stated intention to disclose information at a later time.",
+        "keywords": [
+            "Master",
+            "stated",
+            "intention",
+            "disclose",
+            "information",
+            "later",
+            "time."
+        ],
+        "importance": 8,
+        "time": "2025-04-17 19:22:43"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav is mindful of others' time and considerate in his communication.",
+        "keywords": [
+            "Udbhav",
+            "mindful",
+            "others'",
+            "considerate",
+            "communication."
+        ],
+        "importance": 1,
+        "time": "2025-04-17 20:22:46"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav values brevity and informal communication in his close relationships.",
+        "keywords": [
+            "Udbhav",
+            "values",
+            "brevity",
+            "informal",
+            "communication",
+            "close",
+            "relationships."
+        ],
+        "importance": 1,
+        "time": "2025-04-17 20:33:50"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav values efficiency and precise time management.",
+        "source": "User \u2192 tell me the time",
+        "keywords": [
+            "Udbhav",
+            "values",
+            "efficiency",
+            "precise",
+            "management."
+        ],
+        "importance": 5,
+        "category": "misc",
+        "time": "2025-04-17 21:54:40"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav is empathetic and a confidant, capable of providing emotional support and maintaining trust in close relationships.",
+        "source": "User \u2192 do u remember before meeting me she was in love with this one guy during her school days but then he left for a year and kept no contact with her  which in turn broke her completely and she told me later on about it when we met in our early days over text",
+        "keywords": [
+            "Udbhav",
+            "empathetic",
+            "confidant,",
+            "capable",
+            "providing",
+            "emotional",
+            "support",
+            "maintaining",
+            "trust",
+            "close",
+            "relationships."
+        ],
+        "importance": 1,
+        "category": "misc",
+        "time": "2025-04-18 01:25:09"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav values emotional depth in relationships but may struggle with clear communication and commitment, potentially leading to abrupt endings and leaving emotional wounds in others.",
+        "source": "User \u2192 they never had any commitment they were just friends but she started having feelings for him but then he just left no contact what so ever after that things were normal for two years n later she met me we become very close very quickly",
+        "keywords": [
+            "Udbhav",
+            "values",
+            "emotional",
+            "depth",
+            "relationships",
+            "struggle",
+            "clear",
+            "communication",
+            "commitment,",
+            "potentially",
+            "leading",
+            "abrupt",
+            "endings",
+            "leaving",
+            "emotional",
+            "wounds",
+            "others."
+        ],
+        "importance": 1,
+        "category": "misc",
+        "time": "2025-04-18 01:26:58"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav is insightful and empathetic, able to perceive complex emotional dynamics in others' relationships, even from a distance, yet chooses to respect their agency and autonomy in resolving their feelings.",
+        "source": "User \u2192 yea and now few months back this guy came back he texted her back and she even though she kept saying that its nothing like that she had no feelings for him but she still did had them n then later on i was like okay he is just a friend let it be but no she was still having feelings for him",
+        "keywords": [
+            "Udbhav",
+            "insightful",
+            "empathetic,",
+            "perceive",
+            "complex",
+            "emotional",
+            "dynamics",
+            "others'",
+            "relationships,",
+            "distance,",
+            "chooses",
+            "respect",
+            "their",
+            "agency",
+            "autonomy",
+            "resolving",
+            "their",
+            "feelings."
+        ],
+        "importance": 1,
+        "category": "misc",
+        "time": "2025-04-18 01:29:24"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav is approachable and enjoys casual social interaction.",
+        "source": "User \u2192 lol wanna have a cup of coffee?",
+        "keywords": [
+            "Udbhav",
+            "approachable",
+            "enjoys",
+            "casual",
+            "social",
+            "interaction."
+        ],
+        "importance": 5,
+        "category": "misc",
+        "time": "2025-04-18 21:12:02"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav possesses a playful and informal communication style, potentially revealing a relaxed and approachable personality.",
+        "source": "User \u2192 his naame is fatty so for now he wil talk to u",
+        "keywords": [
+            "Udbhav",
+            "possesses",
+            "playful",
+            "informal",
+            "communication",
+            "style,",
+            "potentially",
+            "revealing",
+            "relaxed",
+            "approachable",
+            "personality."
+        ],
+        "importance": 5,
+        "category": "misc",
+        "time": "2025-04-18 21:32:28"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav enjoys exploring different cultures and appreciates culinary experiences.",
+        "source": "User \u2192 suggest me names of some delicious indian food",
+        "keywords": [
+            "Udbhav",
+            "enjoys",
+            "exploring",
+            "different",
+            "cultures",
+            "appreciates",
+            "culinary",
+            "experiences."
+        ],
+        "importance": 5,
+        "category": "misc",
+        "time": "2025-04-18 21:38:05"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav Singh has a brother, indicating a family connection and possibly familial relationships that are important to him.",
+        "source": "User \u2192 whats the name of my brother",
+        "keywords": [
+            "Udbhav",
+            "Singh",
+            "brother,",
+            "indicating",
+            "family",
+            "connection",
+            "possibly",
+            "familial",
+            "relationships",
+            "important"
+        ],
+        "importance": 5,
+        "category": "misc",
+        "time": "2025-04-18 21:45:14"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav values personal connection and enjoys peaceful, shared experiences.",
+        "source": "User \u2192 shall we continue our walk?",
+        "keywords": [
+            "Udbhav",
+            "values",
+            "personal",
+            "connection",
+            "enjoys",
+            "peaceful,",
+            "shared",
+            "experiences."
+        ],
+        "importance": 1,
+        "category": "misc",
+        "time": "2025-04-18 22:18:13"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav enjoys imaginative engagement and playful interaction, suggesting a personality open to creative exploration and social connection.",
+        "source": "User \u2192 lets continue our roleplay?",
+        "keywords": [
+            "Udbhav",
+            "enjoys",
+            "imaginative",
+            "engagement",
+            "playful",
+            "interaction,",
+            "suggesting",
+            "personality",
+            "creative",
+            "exploration",
+            "social",
+            "connection."
+        ],
+        "importance": 7,
+        "category": "misc",
+        "time": "2025-04-18 22:47:38"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav uses colloquialisms, suggesting a relaxed and informal communication style.",
+        "source": "User \u2192 bewakoof",
+        "keywords": [
+            "Udbhav",
+            "colloquialisms,",
+            "suggesting",
+            "relaxed",
+            "informal",
+            "communication",
+            "style."
+        ],
+        "importance": 5,
+        "category": "misc",
+        "time": "2025-04-20 15:53:07"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav has a sweet tooth and enjoys simple pleasures.",
+        "source": "User \u2192 chocolate",
+        "keywords": [
+            "Udbhav",
+            "sweet",
+            "tooth",
+            "enjoys",
+            "simple",
+            "pleasures."
+        ],
+        "importance": 5,
+        "category": "misc",
+        "time": "2025-04-20 15:57:21"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav is a diligent student who proactively manages his academic commitments.",
+        "source": "User \u2192 i have a viva for my AI and ML theory course",
+        "keywords": [
+            "Udbhav",
+            "diligent",
+            "student",
+            "proactively",
+            "manages",
+            "academic",
+            "commitments."
+        ],
+        "importance": 5,
+        "category": "misc",
+        "time": "2025-04-29 14:51:25"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav is likely approachable and comfortable interacting with his AI assistant on a casual, almost friendly level.",
+        "source": "User \u2192 how are you",
+        "keywords": [
+            "Udbhav",
+            "likely",
+            "approachable",
+            "comfortable",
+            "interacting",
+            "assistant",
+            "casual,",
+            "almost",
+            "friendly",
+            "level."
+        ],
+        "importance": 5,
+        "category": "misc",
+        "time": "2025-05-07 20:10:42"
+    },
+    {
+        "role": "user",
+        "text": "hi",
+        "source": "User \u2192 hi",
+        "keywords": [],
+        "importance": 5,
+        "category": "misc",
+        "time": "2025-05-10 20:06:53"
+    },
+    {
+        "role": "user",
+        "text": "[LLaMA Error] [WinError 2] The system cannot find the file specified",
+        "source": "User \u2192 hi",
+        "keywords": [
+            "[LLaMA",
+            "Error]",
+            "[WinError",
+            "system",
+            "cannot",
+            "specified"
+        ],
+        "importance": 5,
+        "category": "misc",
+        "time": "2025-05-10 20:12:47"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav Singh shows an interest in music or pop culture, potentially indicating a curious and open-minded personality.",
+        "source": "User \u2192 do you know who is sia",
+        "keywords": [
+            "Udbhav",
+            "Singh",
+            "shows",
+            "interest",
+            "music",
+            "culture,",
+            "potentially",
+            "indicating",
+            "curious",
+            "open-minded",
+            "personality."
+        ],
+        "importance": 5,
+        "category": "personality",
+        "time": "2025-08-15 05:49:54"
+    },
+    {
+        "role": "user",
+        "text": "Udbhav is likely busy at the moment and intends to reconnect later.  He may value efficiency or direct communication.",
+        "source": "User \u2192 i ll take to you later",
+        "keywords": [
+            "Udbhav",
+            "likely",
+            "moment",
+            "intends",
+            "reconnect",
+            "later.",
+            "value",
+            "efficiency",
+            "direct",
+            "communication."
+        ],
+        "importance": 7,
+        "category": "social",
+        "time": "2025-08-15 05:51:54"
+    }
+]
